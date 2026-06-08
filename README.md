@@ -15,7 +15,7 @@ y posteriormente pedidos.
 
 
 
-#Trabajo
+# Trabajo
 
 El trabajo esta organizado de forma distinta dependiendo de quien haga que cosa, y se divide de forma diferente en los sprints
 debido a que por unidad cambiamos de scrum-master.
