@@ -1,0 +1,19 @@
+erDiagram
+    PRODUCT {
+        char_6 product_code PK
+        varchar_40 name
+        varchar_20 category
+        varchar_15 size
+        decimal_10_2 base_price
+        int stock
+        int min_stock
+        int packages
+    }
+    RAW_MATERIAL {
+        int id_supply PK
+        varchar_50 type
+        varchar_30 color
+        decimal_4_2 width_meters
+        decimal_5_2 length_meters
+        decimal_10_2 stock
+    }
